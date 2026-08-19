@@ -1,9 +1,0 @@
-{
-  "environment": "sample",
-  "region": "us-east-1",
-  "features": {
-    "dashboard": true,
-    "reports": true
-  },
-  "note": "TEMPLATE_ITEM: replace with real configuration"
-}
